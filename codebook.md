@@ -21,9 +21,7 @@ Relevant variables of the data are the following:
 ## Process
 1. Dowload the data to a local location 
 2. Read all relevant data into memory
-3. Merge the train and test data of the features, filtering out the not needed features
-4. Replace the column names with descriptive names of the features
-5. Merge the train and test data of the activties and name the activity columns
-6. Merge the train and test data of the subjects and name the subject column
-7. Merge the data from step 3-6, to a tidy data set
-8. Based on the tidy data set, create a 2nd tidy data set which shows the average of each feature for each activity and each subject, respectively
+3. Merge the train and test data of the features as well as the subjects
+4. Filtering out the not needed features
+5. Rename the feature columns to be more descriptive
+6. Based on the tidy data set, create a 2nd tidy data set which shows the average of each feature for each activity and each subject, respectively
