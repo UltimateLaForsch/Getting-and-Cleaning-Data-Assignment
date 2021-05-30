@@ -14,8 +14,8 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 Relevant variables of the data are the following:
   - 30 subjects
   - 6 activities (labels)
-  - 561 Features
-  - 10299 datatest (divided in a train and test dataset), each belonging to a subject, an activity as well as a feature
+  - 561 features
+  - 10299 datasets of features (divided in a train and test dataset), each belonging to a subject and an activity
   
   
 ## Process
