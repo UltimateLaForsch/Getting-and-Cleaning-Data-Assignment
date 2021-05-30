@@ -16,8 +16,12 @@ Assignment submission files
  
     describes the variables, the data, and any transformations / steps that have been performed to clean up the data
 
+ - 2nd_tidy_dataset.txt/csv
+ 
+    the result of the 2nd task as txt as well as csv for a better viewing experience on github
+ 
  - README.md
  
-    this file
+    this introductionfile
 
 
